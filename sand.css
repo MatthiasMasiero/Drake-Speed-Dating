@@ -1,0 +1,77 @@
+#sand{
+    background-color: #f1f1f1;
+    margin-left: 50px;
+    /* margin-top: 5px; */
+    width: 450px;
+    height: 650px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+#one {
+    position: absolute;
+    margin-right: 100px;
+    top: 40%;
+    right: 0;
+    transform: translate(0, -50%);
+    padding: 10px 20px;
+    font-size: 24px;
+    background-color: #d4ba52;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #two {
+    position: absolute;
+    margin-right: 100px;
+    top: 50%;
+    right: 0;
+    transform: translate(0, -50%);
+    padding: 10px 20px;
+    font-size: 24px;
+    background-color: #d4ba52;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #three {
+    position: absolute;
+    margin-right: 100px;
+    top: 60%;
+    right: 0;
+    transform: translate(0, -50%);
+    padding: 10px 20px;
+    font-size: 24px;
+    background-color: #d4ba52;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  h1 {
+    font-size: 50px;
+    margin-left: 140px;
+    margin-top: 10px;
+  }
+
+  h2 {
+    position: absolute;
+    margin-right: 80px;
+    top: 30%;
+    right: 0;
+    transform: translate(0, -50%);
+    padding: 10px 20px;
+    font-size: 24px;
+  
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  #stomach2 {
+    background-color: #f1f1f1;
+    margin-left: 50px;
+    width: 500px;
+    height: 650px;
+    position: absolute;
+    margin-top: 20px
+  }
